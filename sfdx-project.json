@@ -1,0 +1,19 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "unlockedpackage",
+            "versionName": "Summer '20",
+            "versionNumber": "1.1.0.NEXT"
+        }
+       
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "51.0",
+    "packageAliases": {
+        "unlockedpackage": "0Ho2w000000PBROCA4",
+        "unlockedpackage@0.1.0-1": "04t2w0000097e8rAAA"
+    }
+}
